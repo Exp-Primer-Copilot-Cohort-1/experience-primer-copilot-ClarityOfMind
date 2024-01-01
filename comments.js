@@ -1,4 +1,4 @@
-// Create web servergit 
+// Create web server 
 
 // 1. Import http module
 const http = require('http');
